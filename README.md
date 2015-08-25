@@ -1,8 +1,8 @@
-KaiAko:
+# KaiAko
 
 An open source, community-driven learning management system for immersive training in a real-world environment.
 
-Features:
+## Features:
   - Adaptive and interactive
   - Universal design (usable and accessible)
   - Interacts with real-world tools (e.g. GitHub)
@@ -12,12 +12,12 @@ Features:
   - Provides tools for interaction and communication
   - Gamified
 
-Primary stakeholders
+## Primary stakeholders
   - Students
   - Teachers
   - Potential employers
 
-Future stakeholders
+## Future stakeholders
   - Non-profit and community organizations
   - Developers
   - Other education providers
@@ -25,7 +25,7 @@ Future stakeholders
   - Source companies (GitHub, Trello, etc.)
   - Future students/teachers/staff
 
-Business objectives
+## Business objectives
   - Make something that works for us
     - Student (primary)
     - Teachers (secondary)
@@ -39,55 +39,55 @@ Business objectives
     - Sustainable
   - Accessible/usable
 
-Ideas:
+## Ideas
 
-MVP:
+### MVP
 
-  Dashboard/Login
+  - Dashboard/Login
     - students
     - teachers
     - staff (future)
 
-  Real tool integration
+  - Real tool integration
     - Git/GitHub
     - Trello
     - Nuclide
     - etc.
 
-STRETCH FEATURES:
+### STRETCH FEATURES
 
-User profile
+  - User profile
 
-Curriculum management
-  - Temporal features
-    - Schedule
-    - Calendar of events
-    - Workflow/approvals
-    - Emotion/work tracking
-    - Journaling
-  - Resources
-    - Curated links
-    - In-house tutorials/screencasts
-    - Code examples/snippets
-  - User generated content?
+  - Curriculum management
+    - Temporal features
+      - Schedule
+      - Calendar of events
+      - Workflow/approvals
+      - Emotion/work tracking
+      - Journaling
+    - Resources
+      - Curated links
+      - In-house tutorials/screencasts
+      - Code examples/snippets
+    - User generated content?
 
-Communication
-  - chat
-  - forums
-  - code review/feedback
-  - help queue/breakouts
+  - Communication
+    - chat
+    - forums
+    - code review/feedback
+    - help queue/breakouts
 
-For later:
+### LATER
 
-Privacy/encryption
-Gamification
-Onboarding
-  - Students
-  - Teachers/coaches
-  - Staff?
+  - Privacy/encryption
+  - Gamification
+  - Onboarding
+    - Students
+    - Teachers/coaches
+    - Staff?
 
-Self-testing (skill focused, not memorization)
-  - Touch typing (code)
-  - Pair programing/cooperative gamification
+  - Self-testing (skill focused, not memorization)
+    - Touch typing (code)
+    - Pair programing/cooperative gamification
 
-CV Builder
+  - CV Builder
